@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ross-patiak.github.io/",
+  "homepage": "http://ross-patiak.github.io",
   "name": "king-clothing",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
