@@ -1,5 +1,4 @@
 {
-  "homepage": "https://ross-patiak.github.io",
   "name": "king-clothing",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
@@ -29,8 +28,6 @@
     "babel-jest": "24.7.1"
   },
   "scripts": {
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
