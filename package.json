@@ -2,7 +2,7 @@
   "name": "king-clothing",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
-  "homepage": "https://ross-patiak.github.io/king-clothing",
+  "homepage": "https://ross-patiak.github.io/KingClothing",
   "private": true,
   "dependencies": {
     "@babel/helper-builder-react-jsx": "^7.10.4",
