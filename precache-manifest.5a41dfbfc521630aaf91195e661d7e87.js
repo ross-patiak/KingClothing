@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17139ca77cfb5fd8d9f2cc42fb0c8ae2",
+    "revision": "38533e66526796c92ac7dc80a4e6a51d",
     "url": "/KingClothing/index.html"
   },
   {
-    "revision": "99811d1524f4eba71a28",
+    "revision": "98f50be011a513abbede",
     "url": "/KingClothing/static/css/main.b94863d8.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KingClothing/static/js/2.b7e87fde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99811d1524f4eba71a28",
-    "url": "/KingClothing/static/js/main.eb8584a0.chunk.js"
+    "revision": "98f50be011a513abbede",
+    "url": "/KingClothing/static/js/main.7a12cffe.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/KingClothing/static/js/main.eb8584a0.chunk.js.LICENSE.txt"
+    "url": "/KingClothing/static/js/main.7a12cffe.chunk.js.LICENSE.txt"
   },
   {
     "revision": "31f5ea72ffd09e00938c",
