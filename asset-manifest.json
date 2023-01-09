@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/KingClothing/static/css/main.b94863d8.chunk.css",
-    "main.js": "/KingClothing/static/js/main.7a12cffe.chunk.js",
-    "main.js.map": "/KingClothing/static/js/main.7a12cffe.chunk.js.map",
+    "main.js": "/KingClothing/static/js/main.68ad3f72.chunk.js",
+    "main.js.map": "/KingClothing/static/js/main.68ad3f72.chunk.js.map",
     "runtime-main.js": "/KingClothing/static/js/runtime-main.a689d686.js",
     "runtime-main.js.map": "/KingClothing/static/js/runtime-main.a689d686.js.map",
     "static/js/2.b7e87fde.chunk.js": "/KingClothing/static/js/2.b7e87fde.chunk.js",
     "static/js/2.b7e87fde.chunk.js.map": "/KingClothing/static/js/2.b7e87fde.chunk.js.map",
     "index.html": "/KingClothing/index.html",
-    "precache-manifest.5a41dfbfc521630aaf91195e661d7e87.js": "/KingClothing/precache-manifest.5a41dfbfc521630aaf91195e661d7e87.js",
+    "precache-manifest.51347a9b03ceb8e2db8f626dcaa3fa01.js": "/KingClothing/precache-manifest.51347a9b03ceb8e2db8f626dcaa3fa01.js",
     "service-worker.js": "/KingClothing/service-worker.js",
     "static/css/main.b94863d8.chunk.css.map": "/KingClothing/static/css/main.b94863d8.chunk.css.map",
     "static/js/2.b7e87fde.chunk.js.LICENSE.txt": "/KingClothing/static/js/2.b7e87fde.chunk.js.LICENSE.txt",
-    "static/js/main.7a12cffe.chunk.js.LICENSE.txt": "/KingClothing/static/js/main.7a12cffe.chunk.js.LICENSE.txt",
+    "static/js/main.68ad3f72.chunk.js.LICENSE.txt": "/KingClothing/static/js/main.68ad3f72.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/KingClothing/static/media/crown.ed28accb.svg",
     "static/media/shopping-bag.09e6f5e7.svg": "/KingClothing/static/media/shopping-bag.09e6f5e7.svg"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a689d686.js",
     "static/js/2.b7e87fde.chunk.js",
     "static/css/main.b94863d8.chunk.css",
-    "static/js/main.7a12cffe.chunk.js"
+    "static/js/main.68ad3f72.chunk.js"
   ]
 }
