@@ -2,32 +2,35 @@
   "name": "king-clothing",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
+  "homepage": "https://ross-patiak.github.io/king-clothing",
   "private": true,
   "dependencies": {
     "@babel/helper-builder-react-jsx": "^7.10.4",
     "babel": "^6.23.0",
-    "firebase": "6.0.2",
-    "gh-pages": "^3.1.0",
-    "node-sass": "4.12.0",
+    "firebase": "^6.0.2",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-redux": "7.0.3",
-    "react-router-dom": "5.0.0",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.0.0",
     "react-stripe-checkout": "^2.6.3",
-    "redux": "4.0.1",
-    "redux-logger": "3.0.6",
-    "redux-persist": "5.10.0",
-    "reselect": "4.0.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.10.0",
+    "reselect": "^4.0.0",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "@babel/helper-regex": "^7.10.5",
-    "react-scripts": "3.0.0"
+    "gh-pages": "^3.2.3",
+    "react-scripts": "^3.0.0"
   },
   "resolutions": {
-    "babel-jest": "24.7.1"
+    "babel-jest": "^24.7.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -40,7 +43,7 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all" 
+      "not op_mini all"
     ],
     "development": [
       "last 1 chrome version",
